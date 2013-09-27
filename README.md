@@ -5,10 +5,14 @@ A collection of challenges/programs that I write for the University of Florida S
 
 Includes
 --------
-Challenges
-<p>-> Java Decompiling - For use with JAD (found [here](http://varaneckas.com/jad/).)
+<h3>Challenges</h3>
+<ul>
+  <li>Java Decompiling - For use with JAD (found [here](http://varaneckas.com/jad/).)</li>
+</ul>
   
-Programs
-<p>-> allHashedUp - Brute forces MD5 hashes given hashes to brute force and a wordlist.
+<h3>Programs</h3>
+<ul>
+  <li>allHashedUp - Brute forces MD5 hashes given hashes to brute force and a wordlist.</li>
+</ul>
           
 More to come!
