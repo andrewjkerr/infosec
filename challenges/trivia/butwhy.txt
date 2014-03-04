@@ -1,0 +1,32 @@
+=====================================
+	Have you ever kissed a girl?	
+			 - Bryan 				
+=====================================
+
+-
+>      a machine with 24MB of memory installed.  Under Linux I can map
+-
+>   In fact I will gave an example:
+-
+>      physical page from kernel space.
+-
+>      physical page from kernel space.
+-
+>      TLB entries to map this same amount of space.  For a great many
+-
+>   known networking performance enhancements that exist in the
+-
+>1) Solaris's networking stack, in all of it's incantations (one breed
+-
+>      scheme.
+-
+>      TLB entries to map this same amount of space.  For a great many
+-
+>      hardware TLB.  Which in turn means more processor stalls (in
+-
+>      physical page from kernel space.
+-
+>   However under Linux the TLB misses for the OS are quite minimal.
+-
+>   of it was the Lochman code in 2.0, 2.1 and early 2.2 releases, then
+-
