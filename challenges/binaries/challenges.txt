@@ -1,0 +1,8 @@
+C1) Get the password!
+	Key: SIT-ABAD1DEA
+
+C2) Control the flow!
+	Key: SIT-DEADBEEF
+
+C3) Shift the characters!
+	Key: 31337haxsh33p666
